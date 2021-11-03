@@ -1,0 +1,10 @@
+﻿  multiclient.cpp
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(256,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(285,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(310,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(374,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(403,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(416,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\GameCaro_Server\multiclient.cpp(454,20): warning C4018: '<': signed/unsigned mismatch
+  GameCaro_Server.vcxproj -> C:\Users\MSII\Desktop\Mock\Assignment\C++\Mock_ QuanNB1\Server\Debug\GameCaro_Server.exe
